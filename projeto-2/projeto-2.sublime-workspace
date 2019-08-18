@@ -4,16 +4,28 @@
 		"selected_items":
 		[
 			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
 				"all",
 				"align-self"
 			],
 			[
 				"bor",
 				"border"
-			],
-			[
-				"padd",
-				"padding-top"
 			],
 			[
 				"background-c",
@@ -58,14 +70,6 @@
 			[
 				"marg",
 				"margin"
-			],
-			[
-				"paddi",
-				"padding-left"
-			],
-			[
-				"mar",
-				"margin-left"
 			],
 			[
 				"margin",
@@ -150,10 +154,16 @@
 	},
 	"expanded_folders":
 	[
-		"/home/myke/Dropbox/Udemy-Curso-Web/myke-oliveira.github.io/projeto-2"
+		"/home/myke/Dropbox/Udemy-Curso-Web/myke-oliveira.github.io/projeto-2",
+		"/home/myke/Dropbox/Udemy-Curso-Web/myke-oliveira.github.io/projeto-2/css"
 	],
 	"file_history":
 	[
+		"/home/myke/Dropbox/Udemy-Curso-Web/myke-oliveira.github.io/projeto-2/games.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/myke-oliveira.github.io/projeto-2/index.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/myke-oliveira.github.io/projeto-2/eletronicos.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/myke-oliveira.github.io/projeto-2/apps.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/myke-oliveira.github.io/projeto-2/css/estilo.css",
 		"/home/myke/Dropbox/Udemy-Curso-Web/aula 62.css",
 		"/home/myke/Dropbox/Udemy-Curso-Web/aula 62a.html",
 		"/home/myke/Dropbox/Udemy-Curso-Web/aula 62.html",
@@ -204,7 +214,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -324,7 +334,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 245.0,
 	"status_bar_visible": true,
 	"template_settings":
